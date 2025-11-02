@@ -1,0 +1,6 @@
+route_id,source,destination,distance_km,avg_speed,vehicle_type,traffic,elevation_gain_m
+1,A,B,10,40,car,low,50
+2,B,C,25,50,bus,medium,120
+3,C,D,15,35,bike,high,80
+4,D,E,40,60,car,medium,200
+5,E,F,30,45,bus,low,150
