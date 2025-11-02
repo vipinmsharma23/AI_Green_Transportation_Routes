@@ -3,7 +3,7 @@
 **Internship:** Shell-Edunet Skills4Future (AICTE x Shell)  
 **Duration:** Oct 2025 – Nov 2025  
 **Theme:** Sustainability  
-**Intern:** Vipin Sharma  
+**Intern:** Vipin M Sharma  
 **GitHub Repo:** [AI_Green_Transportation_Routes](https://github.com/vipinmsharma23/AI_Green_Transportation_Routes)
 
 ---
