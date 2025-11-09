@@ -125,14 +125,11 @@ A working **prototype** that:
 - Exports interactive maps and summary charts  
 
 ---
-
-## 🧾 Next Steps (Preview of Week 3)
+## 🧾 Next Steps (Final Week — Week 3)
 
 | Week | Focus | Key Tasks |
 |------|--------|-----------|
-| 3 | Multi-Vehicle & Traffic | Add bike, bus, EV factors + integrate live traffic API |
-| 4 | Front-End Dashboard | Build Streamlit UI for route selection + visual results |
-| 5 | Final Docs & Evaluation | Measure total emission savings + prepare final report |
+| 3 | Final Development & Submission | - Add multi-vehicle emission factors (Car, Bike, Bus, EV)<br>- Integrate live traffic or speed data for realistic routing<br>- Finalize visualization maps and CO₂ comparison charts<br>- Prepare final documentation and project report for submission |
 
 ---
 
