@@ -1,0 +1,16 @@
+{
+  "city": "Bangalore, India",
+  "origin": "bagaluru",
+  "destination": "Yelahanka",
+  "optimized": {
+    "distance_km": 5.585680418055145,
+    "emission_gCO2": 1102.0746907458672,
+    "time_min": 8.378520627082718
+  },
+  "shortest_distance": {
+    "distance_km": 5.585680418055145,
+    "emission_gCO2": 1102.0746907458672,
+    "time_min": 8.378520627082718
+  },
+  "emission_reduction_percent": 0.0
+}

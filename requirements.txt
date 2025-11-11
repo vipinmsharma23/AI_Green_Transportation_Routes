@@ -1,7 +1,10 @@
-pandas
-numpy
-scikit-learn
-networkx
-matplotlib
-jupyter
 
+osmnx
+networkx
+pandas
+geopandas
+folium
+matplotlib
+shapely
+numpy
+jupyterlab
